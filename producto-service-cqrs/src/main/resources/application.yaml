@@ -16,3 +16,7 @@ spring:
     console.enabled: true
     settings:
       web-allow-others: true
+
+axon:
+  axonserver:
+    servers: localhost:8124
